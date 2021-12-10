@@ -725,13 +725,13 @@ export default class App extends Component{
               </div>
 
               
-                <a style={{justifyContent:"center",marginTop:"15px",paddingTop:"10px",flexDirection:"row"}} class="row" href={  `https://play.google.com/store/apps/details?id=com.office.b2cloud&hl=en_IN`} target="_blank">
+                {/* <a style={{justifyContent:"center",marginTop:"15px",paddingTop:"10px",flexDirection:"row"}} class="row" href={  `https://play.google.com/store/apps/details?id=com.office.b2cloud&hl=en_IN`} target="_blank">
 
                 <p style={{color:"#000"}}>website made with   </p>
                                     <Cloud style={{ fontSize: 18,marginTop:"4px",width:"5%",color:"#CD6155" }}  />
                                     <p style={{color:"#000"}}>   B2CLOUD  </p>
 
-                </a>
+                </a> */}
          
 
 
